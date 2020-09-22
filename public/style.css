@@ -1,0 +1,41 @@
+* {
+  color: #BEDBED;
+}
+
+h2, h3 {
+  font-family: 'Exo 2', Verdana, sans-serif;
+}
+
+li, p, label, input, button {
+  font-family: 'Montserrat', Helvetica, sans-serif;
+}
+
+code, a {
+  font-family: 'Fira Code', Courier, monospace;
+	color: #EBDEBD;
+}
+
+body, input {
+  background-color: #444444;
+}
+
+input {
+	border: 1px solid #EBDEBD;
+}
+
+h2 {
+  margin-left: 1%;
+}
+
+h3 { margin-left: 1%; }
+
+form { margin-left: 3%; }
+
+ul, ol { margin-left: 2%; }
+
+p, a { margin-left: 3%; }
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+}
